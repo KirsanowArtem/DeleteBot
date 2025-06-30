@@ -1,9 +1,9 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTypes
 
-TOKEN = "8188268450:AAGIGXOYJaCTpLMK97NK4sIwECWVTwfhqPA"
+TOKEN = ""
 
-BLOCKED_USERNAMES = [u.lower() for u in ["lvl_up_by_god", "y4wlean"]]
+BLOCKED_USERNAMES = [u.lower() for u in ["lvl_up_by_god", "y4wlean", "DenProcUA"]]
 
 
 LOG_GROUP_ID = -4619827108
